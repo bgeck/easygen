@@ -1,0 +1,1 @@
+[{"module":"ReadTextFile","name":"ReadTextFile (1)","file":"datasets/superheroes","output":"temp/text0"},{"module":"RandomizeLines","name":"RandomizeLines (1)","input":"temp/text0","output":"temp/text1"},{"module":"WriteTextFile","name":"WriteTextFile (1)","input":"temp/text1","file":"random_superheroes"}]
